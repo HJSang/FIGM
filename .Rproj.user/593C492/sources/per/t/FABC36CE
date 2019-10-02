@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1485311214528.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3332589154",
+    "id" : "FABC36CE",
+    "lastKnownWriteTime" : 1519064548,
+    "last_content_update" : 1519064548083,
+    "path" : "C:/Users/hjsang/Dropbox/KIM/FIGM/FIGM/src/RcppExports.cpp",
+    "project_path" : "src/RcppExports.cpp",
+    "properties" : {
+        "cursorPosition" : "7,21",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}

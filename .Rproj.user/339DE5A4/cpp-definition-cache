@@ -1,0 +1,188 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 11,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 9,
+                "name" : "mvrnormArma(int, arma::vec, arma::mat)",
+                "parent_name" : "",
+                "usr" : "c:@F@mvrnormArma#I#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#"
+            },
+            {
+                "column" : 5,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 16,
+                "name" : "imputate(vec, vec, mat, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@imputate#$@N@arma@C@Col>#d#S0_#$@N@arma@C@Mat>#d#I#"
+            },
+            {
+                "column" : 5,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 76,
+                "name" : "com_FI(mat, vec, mat, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@com_FI#$@N@arma@C@Mat>#d#$@N@arma@C@Col>#d#S0_#I#"
+            },
+            {
+                "column" : 5,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 109,
+                "name" : "FI_w(mat, vec, mat, vec, mat)",
+                "parent_name" : "",
+                "usr" : "c:@F@FI_w#$@N@arma@C@Mat>#d#$@N@arma@C@Col>#d#S0_#S1_#S0_#"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 189,
+                "name" : "find_obs(mat)",
+                "parent_name" : "",
+                "usr" : "c:@F@find_obs#$@N@arma@C@Mat>#d#"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 208,
+                "name" : "Update_par(mat &, vec &, mat &)",
+                "parent_name" : "",
+                "usr" : "c:@F@Update_par#&$@N@arma@C@Mat>#d#&$@N@arma@C@Col>#d#S0_#"
+            },
+            {
+                "column" : 5,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 220,
+                "name" : "sub_mat(mat &, vec &, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@sub_mat#&$@N@arma@C@Mat>#d#&$@N@arma@C@Col>#d#I#"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 236,
+                "name" : "update_w(mat &, vec &, int, vec)",
+                "parent_name" : "",
+                "usr" : "c:@F@update_w#&$@N@arma@C@Mat>#d#&$@N@arma@C@Col>#d#I#S3_#"
+            },
+            {
+                "column" : 5,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 247,
+                "name" : "stat_est(mat &, vec)",
+                "parent_name" : "",
+                "usr" : "c:@F@stat_est#&$@N@arma@C@Mat>#d#$@N@arma@C@Col>#d#"
+            },
+            {
+                "column" : 5,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 284,
+                "name" : "FI(mat, int, int, vec)",
+                "parent_name" : "",
+                "usr" : "c:@F@FI#$@N@arma@C@Mat>#d#I#I#$@N@arma@C@Col>#d#"
+            },
+            {
+                "column" : 5,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 333,
+                "name" : "Imputate_K(vec, List &, List &, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@Imputate_K#$@N@arma@C@Col>#d#&$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#S1_#I#I#"
+            },
+            {
+                "column" : 5,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 352,
+                "name" : "com_FI_K(mat, List &, List &, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@com_FI_K#$@N@arma@C@Mat>#d#&$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#S1_#I#I#"
+            },
+            {
+                "column" : 5,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 381,
+                "name" : "FI_w_K(mat, List &, List &, List &, List &, vec &)",
+                "parent_name" : "",
+                "usr" : "c:@F@FI_w_K#$@N@arma@C@Mat>#d#&$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#S1_#S1_#S1_#&$@N@arma@C@Col>#d#"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 445,
+                "name" : "update_w_K(mat &, vec &, int, List &, List &, List &, List &, vec &)",
+                "parent_name" : "",
+                "usr" : "c:@F@update_w_K#&$@N@arma@C@Mat>#d#&$@N@arma@C@Col>#d#I#&$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#S4_#S4_#S4_#S2_#"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 459,
+                "name" : "Update_par_K(mat &, List &, List &, vec &, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@Update_par_K#&$@N@arma@C@Mat>#d#&$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#S2_#&$@N@arma@C@Col>#d#I#"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 489,
+                "name" : "Update_par_K2(mat &, List &, List &, vec &, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@Update_par_K2#&$@N@arma@C@Mat>#d#&$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#S2_#&$@N@arma@C@Col>#d#I#"
+            },
+            {
+                "column" : 8,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 527,
+                "name" : "check_cond(List, List, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@check_cond#$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#S0_#I#"
+            },
+            {
+                "column" : 8,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 542,
+                "name" : "BIC_cpp(mat &, List &, List &, vec &, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@BIC_cpp#&$@N@arma@C@Mat>#d#&$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#S2_#&$@N@arma@C@Col>#d#I#"
+            },
+            {
+                "column" : 5,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 592,
+                "name" : "est_mean(vec, List)",
+                "parent_name" : "",
+                "usr" : "c:@F@est_mean#$@N@arma@C@Col>#d#$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#"
+            },
+            {
+                "column" : 5,
+                "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+                "kind" : 6,
+                "line" : 607,
+                "name" : "FIK(mat, int, int, int, List, List, vec)",
+                "parent_name" : "",
+                "usr" : "c:@F@FIK#$@N@arma@C@Mat>#d#I#I#I#$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#S1_#$@N@arma@C@Col>#d#"
+            }
+        ],
+        "file" : "/Users/hejiansang/Dropbox/KIM/FIGM/FIGM/src/FIGM_cpp.cpp",
+        "file_last_write" : 1502901423
+    }
+]

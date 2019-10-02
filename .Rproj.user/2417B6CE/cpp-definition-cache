@@ -1,0 +1,152 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 11,
+                "file" : "D:/Dropbox/KIM/FIGM/FIGM/src/FI_cpp.cpp",
+                "kind" : 6,
+                "line" : 9,
+                "name" : "mvrnormArma(int, arma::vec, arma::mat)",
+                "parent_name" : "",
+                "usr" : "c:@F@mvrnormArma#I#$@N@arma@C@Col>#d#$@N@arma@C@Mat>#d#"
+            },
+            {
+                "column" : 6,
+                "file" : "D:/Dropbox/KIM/FIGM/FIGM/src/FI_cpp.cpp",
+                "kind" : 6,
+                "line" : 22,
+                "name" : "find_obs(mat &, mat &, mat &)",
+                "parent_name" : "",
+                "usr" : "c:@F@find_obs#&$@N@arma@C@Mat>#d#S0_#S0_#"
+            },
+            {
+                "column" : 6,
+                "file" : "D:/Dropbox/KIM/FIGM/FIGM/src/FI_cpp.cpp",
+                "kind" : 6,
+                "line" : 38,
+                "name" : "proposal_est(mat &, vec &, mat &)",
+                "parent_name" : "",
+                "usr" : "c:@F@proposal_est#&$@N@arma@C@Mat>#d#&$@N@arma@C@Col>#d#S0_#"
+            },
+            {
+                "column" : 6,
+                "file" : "D:/Dropbox/KIM/FIGM/FIGM/src/FI_cpp.cpp",
+                "kind" : 6,
+                "line" : 46,
+                "name" : "Imputation(mat &, vec &, mat &, mat &, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@Imputation#&$@N@arma@C@Mat>#d#&$@N@arma@C@Col>#d#S0_#S0_#I#"
+            },
+            {
+                "column" : 6,
+                "file" : "D:/Dropbox/KIM/FIGM/FIGM/src/FI_cpp.cpp",
+                "kind" : 6,
+                "line" : 105,
+                "name" : "est1(mat &, vec &, mat &, vec &, vec &)",
+                "parent_name" : "",
+                "usr" : "c:@F@est1#&$@N@arma@C@Mat>#d#&$@N@arma@C@Col>#d#S0_#S2_#S2_#"
+            },
+            {
+                "column" : 6,
+                "file" : "D:/Dropbox/KIM/FIGM/FIGM/src/FI_cpp.cpp",
+                "kind" : 6,
+                "line" : 129,
+                "name" : "updatew(mat &, vec &, mat &, vec &, mat &, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@updatew#&$@N@arma@C@Mat>#d#&$@N@arma@C@Col>#d#S0_#S2_#S0_#I#"
+            },
+            {
+                "column" : 5,
+                "file" : "D:/Dropbox/KIM/FIGM/FIGM/src/FI_cpp.cpp",
+                "kind" : 6,
+                "line" : 164,
+                "name" : "FIMV(mat, vec, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@FIMV#$@N@arma@C@Mat>#d#$@N@arma@C@Col>#d#I#I#"
+            },
+            {
+                "column" : 6,
+                "file" : "D:/Dropbox/KIM/FIGM/FIGM/src/FI_cpp.cpp",
+                "kind" : 6,
+                "line" : 205,
+                "name" : "ImputationGMM(mat &, vec &, mat &, int, int, mat &)",
+                "parent_name" : "",
+                "usr" : "c:@F@ImputationGMM#&$@N@arma@C@Mat>#d#&$@N@arma@C@Col>#d#S0_#I#I#S0_#"
+            },
+            {
+                "column" : 5,
+                "file" : "D:/Dropbox/KIM/FIGM/FIGM/src/FI_cpp.cpp",
+                "kind" : 6,
+                "line" : 274,
+                "name" : "sub_mat(mat &, vec, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@sub_mat#&$@N@arma@C@Mat>#d#$@N@arma@C@Col>#d#I#"
+            },
+            {
+                "column" : 6,
+                "file" : "D:/Dropbox/KIM/FIGM/FIGM/src/FI_cpp.cpp",
+                "kind" : 6,
+                "line" : 292,
+                "name" : "est2(mat &, mat &, mat &, vec &, vec &, vec &, vec &)",
+                "parent_name" : "",
+                "usr" : "c:@F@est2#&$@N@arma@C@Mat>#d#S0_#S0_#&$@N@arma@C@Col>#d#S2_#S2_#S2_#"
+            },
+            {
+                "column" : 6,
+                "file" : "D:/Dropbox/KIM/FIGM/FIGM/src/FI_cpp.cpp",
+                "kind" : 6,
+                "line" : 331,
+                "name" : "updatew2(mat &, mat &, mat &, vec &, mat &, vec &, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@updatew2#&$@N@arma@C@Mat>#d#S0_#S0_#&$@N@arma@C@Col>#d#S0_#S2_#I#I#"
+            },
+            {
+                "column" : 5,
+                "file" : "D:/Dropbox/KIM/FIGM/FIGM/src/FI_cpp.cpp",
+                "kind" : 6,
+                "line" : 404,
+                "name" : "BIC_cpp(mat &, mat &, mat &, vec &, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@BIC_cpp#&$@N@arma@C@Mat>#d#S0_#S0_#&$@N@arma@C@Col>#d#I#"
+            },
+            {
+                "column" : 5,
+                "file" : "D:/Dropbox/KIM/FIGM/FIGM/src/FI_cpp.cpp",
+                "kind" : 6,
+                "line" : 459,
+                "name" : "FIGMM(mat, vec, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@FIGMM#$@N@arma@C@Mat>#d#$@N@arma@C@Col>#d#I#I#I#"
+            },
+            {
+                "column" : 6,
+                "file" : "D:/Dropbox/KIM/FIGM/FIGM/src/FI_cpp.cpp",
+                "kind" : 6,
+                "line" : 502,
+                "name" : "update_ImputationGMM(mat &, mat &, mat &, int, int, mat &)",
+                "parent_name" : "",
+                "usr" : "c:@F@update_ImputationGMM#&$@N@arma@C@Mat>#d#S0_#S0_#I#I#S0_#"
+            },
+            {
+                "column" : 6,
+                "file" : "D:/Dropbox/KIM/FIGM/FIGM/src/FI_cpp.cpp",
+                "kind" : 6,
+                "line" : 582,
+                "name" : "updatew3(mat &, mat &, mat &, vec &, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@updatew3#&$@N@arma@C@Mat>#d#S0_#S0_#&$@N@arma@C@Col>#d#I#I#"
+            },
+            {
+                "column" : 5,
+                "file" : "D:/Dropbox/KIM/FIGM/FIGM/src/FI_cpp.cpp",
+                "kind" : 6,
+                "line" : 649,
+                "name" : "FIGMM2(mat, vec, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@FIGMM2#$@N@arma@C@Mat>#d#$@N@arma@C@Col>#d#I#I#I#"
+            }
+        ],
+        "file" : "D:/Dropbox/KIM/FIGM/FIGM/src/FI_cpp.cpp",
+        "file_last_write" : 1503619808
+    }
+]

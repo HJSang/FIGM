@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "useDynLib(FIGM)\nexportPattern(\"^[[:alpha:]]+\")\nimportFrom(Rcpp,evalCpp)\n",
+    "created" : 1485234476432.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3603971268",
+    "id" : "B561C0F4",
+    "lastKnownWriteTime" : 1500927973,
+    "last_content_update" : 1500927973,
+    "path" : "C:/Users/hjsang/Dropbox/KIM/FIGM/FIGM/NAMESPACE",
+    "project_path" : "NAMESPACE",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_namespace"
+}

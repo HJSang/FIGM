@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: FIGM\nType: Package\nTitle: Frational Imputation using Gausian Mixture Model under MAR\nVersion: 8.1.1\nDate: 2017-09-07\nAuthor: Hejian Sang\nMaintainer: Hejian Sang <hjsang@iastate.edu>\nDescription: FI to handle missing data.\nLicense: GPL(>=3)\nImports: Rcpp, RcppArmadillo\nLinkingTo: Rcpp, RcppArmadillo\nNeedsCompilation: yes\n",
+    "created" : 1485234475760.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "206117789",
+    "id" : "F6B254D5",
+    "lastKnownWriteTime" : 1504808197,
+    "last_content_update" : 1504808197713,
+    "path" : "C:/Users/hjsang/Dropbox/KIM/FIGM/FIGM/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

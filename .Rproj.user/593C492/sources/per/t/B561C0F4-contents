@@ -1,0 +1,3 @@
+useDynLib(FIGM)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp,evalCpp)
